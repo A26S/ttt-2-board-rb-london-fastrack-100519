@@ -2,4 +2,4 @@
 
 board = Array.new()
 
-board.push(" ", " ", " ", " ", " ", " ", " ", " ", " ")
+board.unshift(" ", " ", " ", " ", " ", " ", " ", " ", " ")
